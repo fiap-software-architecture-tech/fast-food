@@ -8,3 +8,4 @@ reports
 .idea/
 .docker
 test-report
+coverage
